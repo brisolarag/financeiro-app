@@ -1,0 +1,6 @@
+[submodule "financeiro-front"]
+	path = financeiro-front
+	url = https://github.com/brisolarag/financeiro-front
+[submodule "financeiro-back"]
+	path = financeiro-back
+	url = https://github.com/brisolarag/financeiro-back
